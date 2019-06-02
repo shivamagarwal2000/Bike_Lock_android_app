@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "519239248925",
+    "firebase_url": "https://bikedb-81c06.firebaseio.com",
+    "project_id": "bikedb-81c06",
+    "storage_bucket": "bikedb-81c06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519239248925:android:08d1474f9d6cc9d4",
+        "android_client_info": {
+          "package_name": "com.example.thelock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519239248925-ekvqbpgd5sukp319jtdrrecfssq29qm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7SGK8XKzAhMWSuvwz4AFjNutx6-OlIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519239248925-ekvqbpgd5sukp319jtdrrecfssq29qm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
